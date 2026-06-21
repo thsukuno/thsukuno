@@ -38,7 +38,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">📫 Contact</h2>
+<h2 data-importer="text" align="left">📫 Socials</h2>
 
 ###
 
