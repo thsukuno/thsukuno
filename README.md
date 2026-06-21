@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/thsukuno/thsukuno/snake-output/snake.svg" alt="Snake animation" />
-
-###
